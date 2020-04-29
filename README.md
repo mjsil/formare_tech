@@ -1,4 +1,3 @@
-# formare_tech
 ## Desafiio Formare Tech
 ### Sistema de login criado em NodeJS com autenticação JWT e com criptografia de password com o BCRYPT
 
